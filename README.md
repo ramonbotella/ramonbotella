@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ramonbotella
-- 👀 I’m interested in data science applied to Pavements
-- 🌱 I’m currently learning tools for data science
-- 💞️ I’m looking to collaborate on data science applied to Pavements
+- 👋 Hi, I’m Ramon
+- 👀 I’m interested in data science in general
+- 🌱 I’m constantly learning new tools for data science
 
 <!---
 ramonbotella/ramonbotella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
